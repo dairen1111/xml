@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<realtes xmlns
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		 xsi:schemaLocation="
+		 ">
+	<generation_date>2020-04-21T13:36:00+02:00</generation_date>
+	<realty>
+	    <local_realty_id>312360</local_realty_id>
+        <email>0953474244st@gmail.com</email>
+        <realty_type>квартира</realty_type>
+        <advert_type>продажа</advert_type>
+        <state>Одесская</state>
+        <city>Одесса</city>
+        <district>Малиновский</district>
+        <street>Столбовая</street>
+        <description>Продам хорошую, светлую просторную квартиру. Площадью 45кв.м  Комнаты раздельные, 15 и  18см. Окна МПО. Двери бронированные, есть балкон! Окна выходят как на фасад , так и во двор. Есть место для авто. Во дворе детская площадка.</description>
+		<characteristics>
+		 <offer_type>от посредника</offer_type>
+         <rooms_count>1</rooms_count>
+         <wall_type>кирпич</wall_type>
+         <total_area>45</total_area>
+         <living_area>33</living_area>
+         <kitchen_area>9</kitchen_area>
+         <floor>5</floor>
+         <floors>9</floors>
+         <price>29000</price>
+         <currency>$</currency>
+         <price_type>за объект</price_type>
+         <exchange>нет</exchange>
+         <bargain>да</bargain>
+         <possible_credit>нет</possible_credit>
+         <contractual_price>нет</contractual_price>
+		 <longitude>30.5364990234375</longitude>
+        <lattitude>50.583236614805884</lattitude>
+        <photos_urls>
+            <loc>
+            http://example.com/i/news/563x347/140110.png    
+			http://images.vfl.ru/ii/1587470168/d236ce22/30285480.jpg
+            http://images.vfl.ru/ii/1587470168/e9281c9d/30285481.jpg
+            http://images.vfl.ru/ii/1587470168/361b1023/30285482.jpg
+            http://images.vfl.ru/ii/1587470169/869289df/30285483.jpg
+            http://images.vfl.ru/ii/1587470169/1abfd33f/30285484.jpg
+            http://images.vfl.ru/ii/1587470169/0aece32f/30285485.jpg
+            http://images.vfl.ru/ii/1587470169/fa2236e1/30285486.jpg
+            http://images.vfl.ru/ii/1587470169/e1b77760/30285487.jpg
+            http://images.vfl.ru/ii/1587470169/c68cfc68/30285488.jpg
+            http://images.vfl.ru/ii/1587470169/b119ed02/30285489.jpg
+            </loc>
+        </photos_urls>
+        <levels>5</levels>
+        <period>2</period>
+        <label>2</label>
+    </realty>
+		</characteristics>
+	</realty>
+</realties>
